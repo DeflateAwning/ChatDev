@@ -7,12 +7,6 @@
       "need_reflect": "True"
     },
     {
-      "phase": "LanguageChoose",
-      "phaseType": "SimplePhase",
-      "max_turn_step": -1,
-      "need_reflect": "True"
-    },
-    {
       "phase": "CodeCompleteAll",
       "phaseType": "ComposedPhase",
       "cycleNum": 10,
